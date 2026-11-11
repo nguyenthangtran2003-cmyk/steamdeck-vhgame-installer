@@ -1,4 +1,4 @@
-# linux-game-fix — Chạy Game Windows & Mod Việt Hóa trên Linux / Steam Deck (Proton/Wine)
+# Steamdeck VHGame Installer (linux-game-fix) — Chạy Game Windows & Mod Việt Hóa trên Linux / Steam Deck (Proton/Wine)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Linux / SteamOS](https://img.shields.io/badge/Platform-Linux%20%7C%20SteamOS%20%7C%20Steam%20Deck-blue.svg)](https://steampowered.com)
@@ -14,7 +14,7 @@ Dự án mở ra nhằm kêu gọi cộng đồng Linux, Steam Deck và Modder *
 ## 📂 Cấu trúc Thư mục Dự Án
 
 ```text
-linux-game-fix/
+steamdeck-vhgame-installer/
 ├── GUIDE.md                  # Cẩm nang kiến trúc tổng thể, mô hình 5 tầng & Hướng dẫn Contributor
 ├── WALKTHROUGH.md            # Quy trình thực hành từng bước từ lúc giải nén game đến khi chơi
 ├── PLAYBOOK.md               # Sổ tay chẩn đoán chi tiết 5 Case study lỗi game phức tạp

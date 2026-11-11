@@ -1,6 +1,6 @@
 # Cẩm Nang Kỹ Thuật & Hướng Dẫn Phát Triển (Master Contributor & Architecture Guide)
 
-> **Dự án:** `linux-game-fix` (Steam Deck & Linux Windows Game / Viethoa Mod Compatibility Framework)  
+> **Dự án:** Steamdeck VHGame Installer (`steamdeck-vhgame-installer`) — Framework Chạy Game Windows & Mod Việt Hóa trên Linux / Steam Deck  
 > **Dành cho:** Nhà phát triển, Kỹ sư Reverse Engineering, Modder, Contributor và AI Coding Agents muốn **Fork**, tối ưu hoặc phát triển các công cụ vá lỗi game trên Linux / SteamOS.
 
 ---
