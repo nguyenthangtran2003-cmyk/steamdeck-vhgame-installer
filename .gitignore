@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+*.bak_patch
+*.dmp
+*.log
+.DS_Store
+.idea/
+.vscode/
